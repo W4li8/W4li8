@@ -54,9 +54,9 @@ MA1: Image Processing Lab 1 <br/>
 MA2: Image Processing Lab 2 <br/>
 &emsp;&emsp;&nbsp; Crazyflie Pizza <br/>
 &emsp;&emsp;&nbsp; Trajnet++, pedestrians’ trajectory forecasting <br/>
-&emsp;&emsp;&nbsp; —RTES, multiprocessor design on FPGA <br/>
+&emsp;&emsp;&nbsp; QuartusQuake, multiprocessor shooter game on FPGA <br/>
 &emsp;&emsp;&nbsp; Serial Arm, Haptics and Swarm Practicals <br/>
-&emsp;&emsp;&nbsp; CHESS Mission <br/>
+&emsp;&emsp;&nbsp; CHESS Mission System Engineering <br/>
 &emsp;&emsp;&nbsp; SHS’ - MA1 SHS continued
 <hr/> 
 MA3 (internship)  ——————————————
