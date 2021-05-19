@@ -40,19 +40,19 @@ BA6: Optics Lab <br/>
 &emsp;&emsp;&nbsp; Motors Lab <br/>
 &emsp;&emsp;&nbsp; Reverse Engineering of a Can Opener <br/>
 &emsp;&emsp;&nbsp; IR Remote Control, analog electronic circuits design <br/>
-&emsp;&emsp;&nbsp; EPuck2 Delivery
+&emsp;&emsp;&nbsp; EPuck2 Delivery, road following and environment detection on a real-time embedded system
 <hr/> 
 MA1: Image Processing Lab 1 <br/>
 &emsp;&emsp;&nbsp; Thymio Garbage Collektor <br/>
 &emsp;&emsp;&nbsp; Quadcopter MPC <br/>
 &emsp;&emsp;&nbsp; Biped Walker Simulation <br/>
 &emsp;&emsp;&nbsp; MapleCan, a cansat competition system design <br/>
-&emsp;&emsp;&nbsp; LVC Minibar <br/>
-&emsp;&emsp;&nbsp; Musknav System <br/>
+&emsp;&emsp;&nbsp; LVC Minibar, operations optimization <br/>
+&emsp;&emsp;&nbsp; Musknav System, spacecraft design for a navigation and communications system orbiting Mars <br/>
 &emsp;&emsp;&nbsp; SHS - Study on the feasibility of a robotic world destruction
 <hr/> 
-MA2: Image Processing Lab 2 <br/>
-&emsp;&emsp;&nbsp; Crazyflie Pizza <br/>
+MA2 (ongoing): Image Processing Lab 2 <br/>
+&emsp;&emsp;&nbsp; Crazyflie Pizza, drone navigation with minimal sensory information <br/>
 &emsp;&emsp;&nbsp; Trajnet++, pedestrians’ trajectory forecasting <br/>
 &emsp;&emsp;&nbsp; QuartusQuake, multiprocessor shooter game on FPGA <br/>
 &emsp;&emsp;&nbsp; Serial Arm, Haptics and Swarm Practicals <br/>
