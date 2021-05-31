@@ -52,7 +52,7 @@ MA1: Image Processing Lab 1 <br/>
 &emsp;&emsp;&nbsp; SHS - Study on the feasibility of a robotic world destruction
 <hr/> 
 MA2 (ongoing): Image Processing Lab 2 <br/>
-&emsp;&emsp;&nbsp; Crazyflie Pizza, drone navigation with minimal sensory information <br/>
+&emsp;&emsp;&nbsp; Crazyflie, drone navigation with minimal sensory information <br/>
 &emsp;&emsp;&nbsp; Trajnet++, pedestrians’ trajectory forecasting <br/>
 &emsp;&emsp;&nbsp; QuartusQuake, multiprocessor shooter game on FPGA <br/>
 &emsp;&emsp;&nbsp; Serial Arm, Haptics and Swarm Practicals <br/>
