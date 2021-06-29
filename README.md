@@ -62,4 +62,4 @@ BA2: Ball Sorting Machine Design <br/>
 &emsp;&emsp;&nbsp; Decontaminators Simulation <br/>
 &emsp;&emsp;&nbsp; SHS - Impact of easyJet on European travel
 <hr/> 
-BA1: Virus Spreading Simulation
+BA1: Virus Spreading Simulation <br/>
