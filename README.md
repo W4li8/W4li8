@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 
 A list of all my university projects / labs, yet to be updated with links:
 <!--
 MA5 (thesis)  ————————————————
 MA4 ———————————————————— 
 <hr/> 
-MA3 (internship)  —————————————— -->
+MA3 (internship)  —————————————— --
 <hr/> 
 MA2: Image Processing Lab 2 <br/>
 &emsp;&emsp;&nbsp; Crazyflie, drone navigation with minimal sensory information <br/>
@@ -63,3 +63,4 @@ BA2: Ball Sorting Machine Design <br/>
 &emsp;&emsp;&nbsp; SHS - Impact of easyJet on European travel
 <hr/> 
 BA1: Virus Spreading Simulation <br/>
+-->
