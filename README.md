@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Some jobs may be for robots, but at this time, building these robots is a job for us. Let's do it right!
-
 <!--
 **W4li8/W4li8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
