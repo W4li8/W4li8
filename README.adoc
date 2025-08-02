@@ -1,9 +1,9 @@
 === Hi there 👋
 
-[cols="^. ^", frame="none", grid="none"]
+[cols="a,a", frame="none", grid="none"]
 |===
-| image::images/debuglife.gif[]
-| image::images/progmess.jpg[hadonejob, height=270]
+.^|image::images/debuglife/debugging101.gif[]
+.^|image::images/progmess.jpg[hadonejob, height=270]
 |===
 
 ////
