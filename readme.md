@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![debuglife](debugging101.gif)
-<img src="progmess.jpg" alt="hadonejob" height="270"/>
+![debuglife](images/debuglife.gif)
+<img src="images/progmess.jpg" alt="hadonejob" height="270"/>
 
 <!--
 W4li8/W4li8 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
