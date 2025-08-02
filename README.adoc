@@ -1,6 +1,10 @@
 === Hi there 👋
 
-image::images/debuglife/debugging101.gif[]&#160;image::images/progmess.jpg[hadonejob, height=270]
+[cols="a,a", frame=none, grid=none]
+|===
+| image::images/debuglife.gif[]
+| image::images/progmess.jpg[hadonejob, height=270]
+|===
 
 ////
 W4li8/W4li8 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
