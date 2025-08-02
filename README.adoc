@@ -1,6 +1,6 @@
 === Hi there 👋
 
-[cols="a,a", frame="none", grid="none"]
+[cols="^. ^", frame="none", grid="none"]
 |===
 | image::images/debuglife.gif[]
 | image::images/progmess.jpg[hadonejob, height=270]
