@@ -1,7 +1,6 @@
 === Hi there 👋
 
-image::images/debuglife.gif[]
-
+image::images/debuglife.gif[] 
 image::images/progmess.jpg[hadonejob, height=270]
 
 ////
