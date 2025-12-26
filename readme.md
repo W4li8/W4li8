@@ -1,16 +1,15 @@
-<!--
-
 ### Hi there 👋
 
 ![debuglife](images/debuglife.gif)
 <img src="images/progmess.jpg" alt="hadonejob" height="270"/>
--->
 
+<!--
 <div align="center">
-<h3>Hi there 👋</h3><!--<br/>-->
+<h3>Hi there 👋</h3><!--<br/>--
 <img src="images/debuglife.gif" alt="debuglife" height="270"/>
 <img src="images/progmess.jpg" alt="hadonejob" height="270"/>
 </div>
+-->
 
 <!--
 W4li8/W4li8 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
