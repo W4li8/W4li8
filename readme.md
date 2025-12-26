@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-<h3>Hi there 👋</h3>
+<h1>Hi there 👋</h1>
 <img src="images/debuglife.gif" alt="debuglife" height="270"/>
 <img src="images/progmess.jpg" alt="hadonejob" height="270"/>
 </div>
