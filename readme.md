@@ -1,5 +1,6 @@
+<div align="center">
+
 ### Hi there 👋
-<div style="text-align: center;">
   
 ![debuglife](images/debuglife.gif)
 <img src="images/progmess.jpg" alt="hadonejob" height="270"/>
