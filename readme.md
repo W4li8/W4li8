@@ -2,7 +2,8 @@
 
 ### Hi there 👋
   
-![debuglife](images/debuglife.gif)
+<!--![debuglife](images/debuglife.gif)-->
+<img src="images/debuglife.gif" alt="debuglife" height="270"/>
 <img src="images/progmess.jpg" alt="hadonejob" height="270"/>
 
 </div>
